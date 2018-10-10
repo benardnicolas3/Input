@@ -1,0 +1,6 @@
+﻿1>------ Génération ignorée : Projet : Input, Configuration : Debug x86 ------
+1>Projet non sélectionné dans le cadre d'une génération pour cette configuration de solution 
+2>------ Déploiement ignoré : Projet : Input, Configuration : Debug x86 ------
+2>Projet non sélectionné dans le cadre d'une génération pour cette configuration de solution 
+========== Génération : 0 a réussi ou est à jour, 0 a échoué, 1 a été ignoré ==========
+========== Déploiement : 0 a réussi, 0 a échoué, 1 a été ignoré ==========
